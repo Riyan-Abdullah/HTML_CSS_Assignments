@@ -1,0 +1,96 @@
+#main{
+    border: none;
+    height: 550px;
+    width: 100%;
+    background-color: rgb(243, 247, 248);
+}
+h1{
+    color: blue;
+    font-family:sans-serif;
+    margin-top: 14%;
+    margin-left: 1%;
+    font-size: 45px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+pre{
+    font-family:sans-serif;
+    margin-top: 0%;
+    margin-left: 1%;
+    font-size: 25px;
+    margin-bottom: 0%; 
+    
+}
+#inside_right{
+    border:none;
+    height: 300px;
+    width: 23%;
+    background-color: white;
+    float: right;
+    margin-bottom: 0%;
+    margin-right: 20%;
+    margin-top: 7%;
+}
+#inside_left{
+    border: none;
+    height: 220px;
+    width: 35%;
+    margin-top: 155px;
+    margin-left: 270px;
+    float: left;
+}
+#email{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 110px;
+    margin-left: 8px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border:1px solid;
+}
+#password{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 110px;
+    margin-left: 8px;
+    margin-top: 10px;
+    border-radius: 5px; 
+    border:1px solid;
+}
+#button{
+    display: block;
+    width: 94.5%;
+    background-color: blue;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 14px;
+    font-size: 18px;
+    font-family:sans-serif;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 8px;
+}
+p{
+    text-align: center;
+    color: blue;
+    font-size: 15px;
+}
+#button_2{
+    display: block;
+    width: 60.5%;
+    background-color: rgb(13, 179, 13);
+    color: white;
+    border:none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 22px;
+    font-size: 18px;
+    font-family:sans-serif;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 60px;
+}
