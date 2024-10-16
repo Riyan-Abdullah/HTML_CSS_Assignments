@@ -1,0 +1,65 @@
+#one{
+    border: 1px solid grey;
+    width: 85%;
+    height: 22px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.text1{
+margin-right: 33%;
+}
+#two{
+     border: 1px solid gray; 
+    width: 80%;
+    height: 120px;
+    margin-left: 130px;
+    margin-top: 5px;
+}
+.img1{
+    width: 140px;
+    height: 118px;
+    border: 1px solid grey;
+    float: left;
+}
+#three{
+    border: 1px solid gray;
+    width: 80%;
+    height: 120px;
+    margin-left: 130px;
+    margin-top: 5px;
+}
+.img2{
+    width: 140px;
+    height: 118px;
+    border: 1px solid grey;
+    float: left;
+}
+.img3{
+    width: 140px;
+    height: 118px;
+    border: 1px solid grey;
+    float: left;
+}
+#four{
+    border: 1px solid gray;
+    width: 80%;
+    height: 120px;
+    margin-left: 130px;
+    margin-top: 5px;
+}
+.img4{
+    width: 140px;
+    height: 118px;
+    border: 1px solid grey;
+    float: left;
+}
+#five{
+    border: 1px solid gray;
+    width: 80%;
+    height: 120px;
+    margin-left: 130px;
+    margin-top: 5px;
+}
+
+
+  
